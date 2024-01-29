@@ -1,0 +1,49 @@
+*{
+    margin:o;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    padding: 10px;
+}
+
+body{
+    background-color: rgb(150, 141, 230);
+    max-width: 1024px;
+    width: 100%;
+    margin: 0 auto;
+    padding-top: 10px;
+}
+
+.form-campo {
+margin-bottom: 16px
+}
+
+.form-campo label {
+    font-weight: bold;
+    display: block;
+}
+
+.form-campo input {
+    width: 100%;
+    display: block;
+    padding: 8px;
+}
+
+form{
+    max-width: 360px;
+}
+
+button {
+    cursor: pointer;
+    max-width: 120px;
+    width:100%;
+    background-color: rgb(41, 148, 112);
+    padding: 6px 0;
+    border: none;
+    color:aliceblue;
+    font-size: 16px;
+    border-radius: 6px;
+
+}
